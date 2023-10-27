@@ -55,29 +55,28 @@ I have selected recall as the primary evaluation metric for the Iris Flower Clas
 
 | Sl. No. | Classification Model      |   Recall Train (%) |   Recall Test (%) |
 |:--------|:--------------------------|---------------:|--------------:|
-|    1    | Logistic regression       |       98.09  |      93.33 |
-|    2    | Decision Tree tuned       |       98.09  |      86.67 |
-|    3    | Naive Bayes               |       97.14 |      93.33 |
-|    4    | Naive Bayes tuned         |       97.14 |      93.33 |
-|    5    | Neural Network            |       98.09 |      95.55 |
+|    1    | Decision Tree tuned       |       95.24  |      95.56 |
+|    2    | Random Forest tuned       |       97.14  |      97.78 |
+|    3    | Naive Bayes               |       94.28 |      97.78 |
+|    4    | Naive Bayes tuned         |       94.28 |      97.78 |
 
 ## Conclusion
 
-In the Iris flower classification project, the Neural Network model has been selected as the final prediction model. The project aimed to classify Iris flowers into three distinct species: Iris-Setosa, Iris-Versicolor, and Iris-Virginica. After extensive data exploration, preprocessing, and model evaluation, the following conclusions can be drawn:
+In the Iris flower classification project, the tuned Random Forest model has been selected as the final prediction model. The project aimed to classify Iris flowers into three distinct species: Iris-Setosa, Iris-Versicolor, and Iris-Virginica. After extensive data exploration, preprocessing, and model evaluation, the following conclusions can be drawn:
 
 1. **Data Exploration:** Through a thorough examination of the dataset, we gained insights into the characteristics and distributions of features. We found that Iris-Setosa exhibited distinct features compared to the other two species.
 
 2. **Data Preprocessing:** Data preprocessing steps, including handling missing values and encoding categorical variables, were performed to prepare the dataset for modeling.
 
-3. **Model Selection:** After experimenting with various machine learning models, Neural Network was chosen as the final model due to its simplicity, interpretability, and good performance in classifying Iris species.
+3. **Model Selection:** After experimenting with various machine learning models, tuned Random Forest was chosen as the final model due to its simplicity, interpretability, and good performance in classifying Iris species.
 
-4. **Model Training and Evaluation:** The Neural Network model was trained on the training dataset and evaluated using appropriate metrics. The model demonstrated satisfactory accuracy and precision in classifying Iris species.
+4. **Model Training and Evaluation:** The Random Forest (tuned) model was trained on the training dataset and evaluated using appropriate metrics. The model demonstrated satisfactory accuracy and precision in classifying Iris species.
 
 5. **Challenges and Future Work:** The project encountered challenges related to feature engineering and model fine-tuning. Future work may involve exploring more advanced modeling techniques to improve classification accuracy further.
 
 6. **Practical Application:** The Iris flower classification model can be applied in real-world scenarios, such as botany and horticulture, to automate the identification of Iris species based on physical characteristics.
 
-In conclusion, the Iris flower classification project successfully employed Neural Network as the final prediction model to classify Iris species. The project's outcomes have practical implications in the field of botany and offer valuable insights into feature importance for species differentiation. Further refinements and enhancements may lead to even more accurate and reliable classification models in the future.
+In conclusion, the Iris flower classification project successfully employed Random Forest (tuned) as the final prediction model to classify Iris species. The project's outcomes have practical implications in the field of botany and offer valuable insights into feature importance for species differentiation. Further refinements and enhancements may lead to even more accurate and reliable classification models in the future.
 
 ---
 
