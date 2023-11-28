@@ -1,6 +1,6 @@
 # Iris Flower Classification
 
-**Oasis Infobyte Verified Project** - [**Credentials**](https://drive.google.com/file/d/1k2DHhBqQk2JLrBxqOKs8hCuodR3HNPrY/view)
+**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
 
 ![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
 
