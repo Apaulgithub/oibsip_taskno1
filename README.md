@@ -1,13 +1,4 @@
-# Iris Flower Classification
-
-**Oasis Infobyte Internship Project** - [**Credentials**](https://drive.google.com/file/d/1uDjGZcWln07jb0dL60Yuz_33Ck78DQXF/view?usp=drive_link)
-
-![MasterHead](https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png)
-
-<font size="1">Image Courtesy: https://www.embedded-robotics.com/wp-content/uploads/2022/01/Iris-Dataset-Classification-1024x367.png</font>
-
-Click on the following link to checkout the colab file.
-- [Colab](https://colab.research.google.com/drive/1kqaU-CK8mRD35y0dFF4xD9z-GJ_CCQOe?usp=sharing)
+![Uploading image.png…]()
 
 
 ---
